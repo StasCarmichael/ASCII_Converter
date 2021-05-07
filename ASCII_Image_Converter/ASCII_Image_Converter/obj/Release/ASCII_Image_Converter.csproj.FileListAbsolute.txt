@@ -1,0 +1,8 @@
+C:\Users\stask\source\FullProject\ASCII_Image_Converter\ASCII_Image_Converter\bin\Release\ASCII_Image_Converter.exe.config
+C:\Users\stask\source\FullProject\ASCII_Image_Converter\ASCII_Image_Converter\bin\Release\ASCII_Image_Converter.exe
+C:\Users\stask\source\FullProject\ASCII_Image_Converter\ASCII_Image_Converter\bin\Release\ASCII_Image_Converter.pdb
+C:\Users\stask\source\FullProject\ASCII_Image_Converter\ASCII_Image_Converter\obj\Release\ASCII_Image_Converter.ManagementForm.resources
+C:\Users\stask\source\FullProject\ASCII_Image_Converter\ASCII_Image_Converter\obj\Release\ASCII_Image_Converter.csproj.GenerateResource.cache
+C:\Users\stask\source\FullProject\ASCII_Image_Converter\ASCII_Image_Converter\obj\Release\ASCII_Image_Converter.csproj.CoreCompileInputs.cache
+C:\Users\stask\source\FullProject\ASCII_Image_Converter\ASCII_Image_Converter\obj\Release\ASCII_Image_Converter.exe
+C:\Users\stask\source\FullProject\ASCII_Image_Converter\ASCII_Image_Converter\obj\Release\ASCII_Image_Converter.pdb
